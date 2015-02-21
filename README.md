@@ -6,7 +6,9 @@ Kills the word 'literally' with fire. By not showing it on the page.
 
 ![Buzzfeed](example-2.png)
 
-See? Much better.
+See? Much better. One might say it works **too** well...
+
+![This repo](example-3.png)
 
 ## Manual Installation
 
