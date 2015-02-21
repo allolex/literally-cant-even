@@ -27,8 +27,9 @@ Download `literally-cant-even.crx`, then go to Chrome's preferences, Extensions,
 ## Development
 
 1. Clone the repo
-2. Make changes for each browser
-3. Run `make` to get new packages. Except for Safari.
+2. Install `crxmake` to build for Chrome (`gem install crxmake`)
+3. Make changes for each browser
+4. Run `make` to get new packages. Except for Safari.
 
 ## Credit
 
