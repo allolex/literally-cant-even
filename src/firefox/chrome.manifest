@@ -1,0 +1,3 @@
+content literally-cant-even chrome/content/ contentaccessible=yes
+
+overlay chrome://browser/content/browser.xul chrome://literally-cant-even/content/main.xul 

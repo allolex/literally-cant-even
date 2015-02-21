@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<overlay id="literally-cant-even-overlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <script type="text/javascript" src="chrome://literally-cant-even/content/literally-cant-even.js" />
+</overlay>
